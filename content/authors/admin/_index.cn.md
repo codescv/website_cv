@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chi Zhang
+title: 张弛
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -96,7 +96,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/codescv
     label: Follow me on Twitter
     display:
       header: true
